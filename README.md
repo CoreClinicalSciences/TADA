@@ -17,6 +17,6 @@ If you use this repository or the associated method in your work, please cite th
 
 Yan, Y., Vuong, Q., Metcalfe, R. K., Guan, T., Shi, H., & Park, J. J. (2025). *Target Aggregate Data Adjustment Method for Transportability Analysis Utilizing Summary‐Level Data From the Target Population*. Pharmaceutical Statistics, 24(5), e70029.
 
-[![DOI](https://img.shields.io/badge/DOI-10.1002/sim.70049-blue)](https://doi.org/10.1002/pst.70029)
+[![DOI](https://img.shields.io/badge/DOI-10.1002/pst.70029-blue)](https://doi.org/10.1002/pst.70029)
 
 We will consistently provide the necessary maintenance for these major R files.
