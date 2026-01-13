@@ -13,4 +13,10 @@ Here is a brief introduction to each R file. Comprehensive comments provide deta
 
 The simulation codes are for parallel computing to increase effectiveness. We suggest accessing the source IPD in the *Project Data Sphere* platform on your own at the time of reproduction, based on the NCT number provided in the paper and using the appropriate data wrangling code to get clean inputs. For detailed information on the use of the `transportTADA` function, please refer to the package documentation of `transportHealth`.
 
+If you use this repository or the associated method in your work, please cite the following article:
+
+Yan, Y., Vuong, Q., Metcalfe, R. K., Guan, T., Shi, H., & Park, J. J. (2025). *Target Aggregate Data Adjustment Method for Transportability Analysis Utilizing Summary‐Level Data From the Target Population*. Pharmaceutical Statistics, 24(5), e70029.
+
+[![DOI](https://img.shields.io/badge/DOI-10.1002/sim.70049-blue)](https://doi.org/10.1002/pst.70029)
+
 We will consistently provide the necessary maintenance for these major R files.
